@@ -11,6 +11,9 @@ import java.nio.file.Paths;
 import javax.swing.*;
 import javax.swing.filechooser.FileSystemView;
 
+/*
+ * Gonna just do everything in one class.
+*/
 public class BitCrypt implements ActionListener{
 	boolean encrypt = true;
 	boolean fileS = false;
